@@ -2,6 +2,11 @@
 Changelog for package smach_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update message definition. Binary data should be of uint8[] type.
+* Contributors: Patrick Chin
+
 2.0.1 (2017-06-08)
 ------------------
 * [maintenance] Update maintainer. switching to package.xml format 2

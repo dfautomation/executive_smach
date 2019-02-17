@@ -2,6 +2,14 @@
 Changelog for package smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#59 <https://github.com/dfautomation/executive_smach/issues/59>`_ from josephcoombe/patch-2
+  Update state.py Docstrings' @type descriptions
+* Merge pull request `#56 <https://github.com/dfautomation/executive_smach/issues/56>`_ from cclauss/remove-set_shutdown_cb
+  Typo set_shutdown_cb() --> set_shutdown_check()
+* Contributors: Isaac I.Y. Saito, Joseph Coombe, cclauss
+
 2.0.1 (2017-06-08)
 ------------------
 * [maintenance] Update maintainer. switching to package.xml format 2
