@@ -2,8 +2,8 @@
 Changelog for package smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.2 (2019-02-18)
+------------------
 * Merge pull request `#59 <https://github.com/dfautomation/executive_smach/issues/59>`_ from josephcoombe/patch-2
   Update state.py Docstrings' @type descriptions
 * Merge pull request `#56 <https://github.com/dfautomation/executive_smach/issues/56>`_ from cclauss/remove-set_shutdown_cb
