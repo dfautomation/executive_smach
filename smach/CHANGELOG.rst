@@ -2,11 +2,19 @@
 Changelog for package smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.3 (2023-06-13)
+------------------
+* Merge pull request `#50 <https://github.com/ros/executive_smach/issues/50>`_ from okalachev/is_running_fix
+  Fix is_running behaviour in case of exception in the state
+* Merge pull request `#51 <https://github.com/ros/executive_smach/issues/51>`_ from okalachev/empty_concurrence
+  Executing an empty Concurrence container hangs forever
+* Contributors: Isaac I.Y. Saito
+
 2.0.2 (2019-02-18)
 ------------------
-* Merge pull request `#59 <https://github.com/dfautomation/executive_smach/issues/59>`_ from josephcoombe/patch-2
+* Merge pull request `#59 <https://github.com/ros/executive_smach/issues/59>`_ from josephcoombe/patch-2
   Update state.py Docstrings' @type descriptions
-* Merge pull request `#56 <https://github.com/dfautomation/executive_smach/issues/56>`_ from cclauss/remove-set_shutdown_cb
+* Merge pull request `#56 <https://github.com/ros/executive_smach/issues/56>`_ from cclauss/remove-set_shutdown_cb
   Typo set_shutdown_cb() --> set_shutdown_check()
 * Contributors: Isaac I.Y. Saito, Joseph Coombe, cclauss
 

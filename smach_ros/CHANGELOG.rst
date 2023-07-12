@@ -2,6 +2,14 @@
 Changelog for package smach_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.3 (2023-06-13)
+------------------
+* Merge pull request `#50 <https://github.com/ros/executive_smach/issues/50>`_ from okalachev/is_running_fix
+  Fix is_running behaviour in case of exception in the state
+* Merge pull request `#51 <https://github.com/ros/executive_smach/issues/51>`_ from okalachev/empty_concurrence
+  Executing an empty Concurrence container hangs forever
+* Contributors: Isaac I.Y. Saito
+
 2.0.2 (2019-02-18)
 ------------------
 
