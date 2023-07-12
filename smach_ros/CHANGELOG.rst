@@ -2,7 +2,7 @@
 Changelog for package smach_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.0.3 (2023-06-13)
+2.0.3 (2023-07-12)
 ------------------
 * Merge pull request `#50 <https://github.com/ros/executive_smach/issues/50>`_ from okalachev/is_running_fix
   Fix is_running behaviour in case of exception in the state
