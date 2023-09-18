@@ -2,6 +2,15 @@
 Changelog for package smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Mute syntax warning.
+* Merge pull request `#107 <https://github.com/dfautomation/executive_smach/issues/107>`_ from gerardcanal/noetic-devel
+
+  * Fix `#92 <https://github.com/dfautomation/executive_smach/issues/92>`_
+
+* Contributors: Farhan Mustar, Gerard Canal, Isaac Saito
+
 2.5.2 (2023-06-13)
 ------------------
 * Fix outcome_map disambiguation for Concurrence `#80 <https://github.com/ros/executive_smach/issues/80>`_

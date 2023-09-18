@@ -2,6 +2,9 @@
 Changelog for package executive_smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 2.5.2 (2023-06-13)
 ------------------
 
