@@ -2,8 +2,8 @@
 Changelog for package smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.5.3 (2023-09-18)
+------------------
 * Mute syntax warning.
 * Merge pull request `#107 <https://github.com/dfautomation/executive_smach/issues/107>`_ from gerardcanal/noetic-devel
 
