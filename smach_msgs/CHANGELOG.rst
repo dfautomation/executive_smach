@@ -2,6 +2,9 @@
 Changelog for package smach_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 2.5.3 (2023-09-18)
 ------------------
 * Update message definition. Binary data should be of uint8[] type. (8ead274)
