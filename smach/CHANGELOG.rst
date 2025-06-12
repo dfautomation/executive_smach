@@ -2,8 +2,8 @@
 Changelog for package smach
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.5.4 (2025-06-13)
+------------------
 * Add userdata constants defined outside state code (`#90 <https://github.com/dfautomation/executive_smach/issues/90>`_)
 * Fix Potential fix for preempting a concurrence container while it was already terminating `#99 <https://github.com/ros/executive_smach/issues/99>`_  
 * Contributors: Ferry Schoenmakers, Isaac Saito, jk-ethz
